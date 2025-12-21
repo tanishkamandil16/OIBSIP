@@ -115,8 +115,7 @@ html, body {
     /* text-shadow: 5px  5px 5px rgb(51, 50, 50); */
     font-size: 3.8vw;
     z-index: 10;           /* bring text above image */
-    pointer-events: none;  /
-   
+    pointer-events: none;
 }
 #center-img button{
      height: 40px;
